@@ -8,10 +8,9 @@ The main focus is to practice **clean HTML structure** and **semantic tags** to 
 - Do not add any styling or CSS
 - Use proper nesting and indentation
 ## Resources
-- Figma page: [link to your Figma file]
-- Fonts: [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) and [Spin Cycle OT]
+- Figma page: https://www.figma.com/design/XrEAsu1vQj5fhVaNG38d2W/Homepage?node-id=0-1&p=f
 ## Files
 - `index.html`: The main HTML page
 - `README.md`: Project description
 ## Author
-Your Name
+Ilaha Bashirova.
