@@ -91,8 +91,18 @@ main {
 	font-size: 22px;
 	color: #FFFFFF;
 }
+.videos-section {
+	display: flex;
+        justify-content: space-between;
+        background: #FFFFFF;
+        align-items: flex-start;
+}
 
-
+h1 {
+	width: 294;
+	height: 40;
+	letter-spacing: 0px;
+}
 
 
 
