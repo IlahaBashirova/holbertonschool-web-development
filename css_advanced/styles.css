@@ -9,7 +9,6 @@ header {
 	justify-content: space-between;
 	align-items: center;
 	padding: 0px 0px;
-	background: #FFFFFF;
 }
 
 header a img {
@@ -34,4 +33,15 @@ header a img {
 	color: #FFFFFF;
 }
 
+main {
+	padding: 214px 98px;
+	background: #FFFFFF;
+}
+
+section {
+	display: flex;
+	justify-content: space-between;
+	gap: 97px;
+	flex-wrap: wrap;
+}
 
