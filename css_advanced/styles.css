@@ -38,10 +38,16 @@ main {
 	background: #FFFFFF;
 }
 
-section {
+.quote {
 	display: flex;
 	justify-content: space-between;
-	gap: 97px;
-	flex-wrap: wrap;
+	gap: 10px;
+	background: #C271FF;
 }
-ection 
+.presenter {
+	width: 943;
+	height: 160px;
+	gap: 53px;
+}
+
+
