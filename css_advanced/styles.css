@@ -42,7 +42,9 @@ main {
 	display: flex;
 	justify-content: space-between;
 	gap: 10px;
+	padding: 246px 108px;
 	background: #C271FF;
+	align-items: flex-start;
 }
 .presenter {
 	width: 943px;
@@ -53,7 +55,7 @@ main {
 	width: 160px;
 	height: 160px;
 	gap: 10px;
-	padding: 0px opx;
+	padding: 0px 0px;
 }
 .text {
 	width:  730px;
@@ -71,7 +73,7 @@ main {
 	font-size: 22px;
 	color: #FFFFFF;
 }
-.text p{
+.text p b {
 	width: 730px;
 	height: 34px;
 	line-height: 33.6;
@@ -80,6 +82,20 @@ main {
 	font-size: 22px;
 	color: #FFFFFF;
 }
+.text p i {
+	width: 730px;
+	height: 34px;
+	line-height: 33.6;
+	letter-spacing: 0px;
+	font-weight: italic;
+	font-size: 22px;
+	color: #FFFFFF;
+}
+
+
+
+
+
 
 
 
