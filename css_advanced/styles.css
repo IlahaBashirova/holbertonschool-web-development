@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #FFFFFF;
+  color: #FFFFFF;
+}
+
+
+header {
+  background-color: #071629;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 0px;
+}
+
+header img {
+  width: 161.57;
+  height: 25.72;
+}
+
+header .container {
+        display: flex;
+        font-family: "Source Sans Pro", sans-serif ;
+        font-weight: bold;
+        font-size: 12px;
+        color: #FFFFFF;
+        letter-spacing: 0px;
+        gap: 20px;
+        align-items: flex-end;
+}
+
+header .container a {
+ 	color: #FFFFFF;
+  	text-decoration: none;
+  	font-size: 12px;
+  	font-weight: bold;
+}
+
+
+.first {
+  	background-image: url('https://i.imgur.com/eQIk56Q.png'); 
+  	background-size: cover;
+  	background-position: center;
+  	padding: 0px 0px;
+  	text-align: center;
+}
+
+.schooled h1 {
+  	font-size: 120px;
+  	font-weight: bold;
+  	margin-bottom: 20px;
+  	width:684;
+  	height: 151;
+}
+
+.schooled p {
+  	font-size: 16px;
+  	letter-spacing: 0px;
+  	margin-bottom: 40px;
+}
+
+.schooled button {
+  	background-color: #C271FF;
+  	color: #FFFFFF;
+  	padding: 15px 30px;
+  	font-size: 14px;
+  	font-weight: 600;
+  	border: none;
+  	border-radius: 20px;
+  	cursor: pointer;
+}
+
+
+.pros {
+  	margin-top: 80px;
+}
+
+.pros h2 {
+  	font-size: 32px;
+  	color: #C271FF;
+  	margin-bottom: 50px;
+}
+
+.pros > div {
+  	display: inline-block;
+  	margin: 0 20px;
+  	text-align: center;
+}
+
+.pros img {
+  	width: 150px;
+  	height: 150px;
+  	border-radius: 50%;
+  	margin-bottom: 10px;
+}
+
+.pros h3 {
+  	font-size: 18px;
+  	margin-bottom: 5px;
+}
+
+.pros p {
+  	font-size: 14px;
+  	font-style: italic;
+}
+
