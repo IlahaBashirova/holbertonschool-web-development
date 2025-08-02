@@ -36,76 +36,78 @@ header .container {
 }
 
 header .container a {
-  	color: #FFFFFF;
- 	text-decoration: none;
-  	font-size: 12px;
-  	font-weight: bold;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
 }
 
 
 .first {
-  	background-image: url('https://i.imgur.com/eQIk56Q.png'); 
-  	background-size: cover;
-  	background-position: center;
-  	padding: 0px 0px;
-  	text-align: center;
+  background-image: url('https://i.imgur.com/eQIk56Q.png'); 
+  background-size: cover;
+  background-position: center;
+  padding: 0px 0px;
+  text-align: center;
 }
 
 .schooled h1 {
-  	font-size: 100px;
-  	font-weight: bold;
-  	margin-bottom: 20px;
+  font-size: 100px;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
 .schooled p {
-  	font-size: 20px;
-  	letter-spacing: 30px;
-  	margin-bottom: 40px;
+  font-size: 20px;
+  letter-spacing: 30px;
+  margin-bottom: 40px;
 }
 
 .schooled button {
-  	background-color: #C271FF;
-  	color: #fff;
-  	padding: 15px 30px;
-  	font-size: 14px;
-  	font-weight: bold;
-  	border: none;
-  	border-radius: 20px;
-  	cursor: pointer;
+  background-color: #C271FF;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
 }
 
+/* Pros Section inside First Section */
 .pros {
-  	margin-top: 80px;
+  margin-top: 80px;
 }
 
 .pros h2 {
-  	font-size: 32px;
-  	color: #C271FF;
-  	margin-bottom: 50px;
+  font-size: 32px;
+  color: #C271FF;
+  margin-bottom: 50px;
 }
 
 .pros > div {
-  	display: inline-block;
-  	margin: 0 20px;
-  	text-align: center;
+  display: inline-block;
+  margin: 0px 20px;
+  text-align: center;
 }
 
 .pros img {
-  	width: 150px;
-  	height: 150px;
-  	border-radius: 50%;
-  	margin-bottom: 10px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
 }
 
 .pros h3 {
-  	font-size: 18px;
-  	margin-bottom: 5px;
+  font-size: 18px;
+  margin-bottom: 5px;
 }
 
 .pros p {
-  	font-size: 14px;
-  	font-style: italic;
+  font-size: 14px;
+  font-style: italic;
 }
+
 .videos-section {
 	display: flex;
         justify-content: space-between;
@@ -125,7 +127,7 @@ header .container a {
 
 .videos-section .highlight {
 	font-weight: bold;
- 	color: #C271FF; 
+ 	color: #C271FF;
 }
 .videos-block {
 	width: 255px;
@@ -186,7 +188,7 @@ header .container a {
   	color: #777;
   	margin: 0;
   	text-align: left;
-  	padding: 0 5px;
+  	padding: 0px 5px;
 }
 
 .author {
@@ -194,19 +196,21 @@ header .container a {
   	flex-direction: column;
   	gap: 6px;
   	align-items: flex-start;
-  	padding: 0 5px;
+  	padding: 0px 5px;
 }
 
 .author img {
   	width: 30px;
   	height: 30px;
   	border-radius: 50%;
+	align: top left;
+	gap: 0px;
 }
 
 .author h3 {
-  	font-size: 13px;
+  	font-size: 14px;
   	margin: 0;
-  	color: #071629;
+  	color: #C271FF;
 }
 
 .rating {
@@ -217,8 +221,8 @@ header .container a {
 }
 
 .rating img {
-  	width: 12px;
-  	height: 12px;
+  	width: 15px;
+  	height: 15px;
 }
 
 .rating p {
