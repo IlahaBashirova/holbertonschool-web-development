@@ -108,6 +108,63 @@ header .container a {
   font-style: italic;
 }
 
+/*quote section */
+.quote {
+	background-color: #C271FF;
+	width: 1440px;
+	height: 392px;
+	gap: 10px;
+	padding: 237px 108px;
+	display: flex;
+	flex-direction: row;
+	align-items:center;
+}
+.presenter {
+	width: 943px;
+	height: 160px;
+	gap: 53px;
+	padding: 0px 0px;
+}
+.presenter img {
+	width: 160px;
+	height: 160px;
+	padding: 0px 0pz;
+	gap: 10px;
+}
+.text {
+	width: 730px;
+	height: 158px;
+	gap: 11px;
+	padding: 0px 0px;
+	display: flex;
+	flex-direction: column;
+	font-family: "Sourse Sans Pro", sans-serif;
+	color: #FFFFFF;
+}
+.text blockquote {
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 33.6px;
+	width: 730px;
+	height: 68px;
+}
+.text p b{
+	font-weight: bold;
+        font-size: 22px;
+        line-height: 33.6px;
+        width: 730px;
+        height: 34px;
+}
+.text p i{
+	font-weight: italic;
+        font-size: 22px;
+        line-height: 33.6px;
+        width: 730px;
+        height: 34px;
+}
+
+
+
 .videos-section {
 	display: flex;
         justify-content: space-between;
