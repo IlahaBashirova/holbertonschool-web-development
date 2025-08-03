@@ -241,6 +241,63 @@ header .container a {
 	height: 502px;
 }
 
+.membership-section .highlight {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #C271FF;
+	font-size: 32px;
+	width: 234px;
+	height: 40px;
+	line-height: auto;
+	letter-spacing: 0px;
+}
+
+.membership-section h1 {
+        font-family: "Source Sans Pro", sans-serif;
+        color: #FFFFFF;
+        font-size: 32px;
+        width: 234px;
+        height: 40px;
+        line-height: auto;
+        letter-spacing: 0px;
+}
+
+.membership-block {
+	width: 257px;
+	height: 153.35px;
+	gap: 20px;
+	padding: 1px 0px;
+}
+.membership-block img {
+	width: 43.67px;
+	height: 35.35px;
+}
+.membership-block h2 {
+	font-family: "Source Sans Pro", sans-serif;
+        color: #FFFFFF;
+        font-size: 18px;
+        width: 256px;
+        height: 26px;
+        line-height: 26px;
+        letter-spacing: 0px;
+	font-weight: 600;
+}
+.membership-block p {
+	font-family: "Source Sans Pro", sans-serif;
+        color: #FFFFFF;
+        font-size: 14px;
+        width: 212px;
+        height: 52px;
+        line-height: 26px;
+        letter-spacing: 0px;
+        font-weight: normal;
+}
+
+.membership-section button {
+	background-color: #C271FF;
+	width: 162px;
+	height: 44px;
+	position: center;
+}
 
 
 
