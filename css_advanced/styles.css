@@ -237,7 +237,7 @@ header .container a {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	gap: 71px;
+	gap: 28px;
 }
 
 .membership {
@@ -302,13 +302,16 @@ header .container a {
 .membership-section button {
 	background-color: #C271FF;
 	width: 162px;
+	color: #FFFFFF;
 	height: 44px;
 	position: center;
 	font-weight: bold;
-	border-radius: none;
+	border-radius: 22px;
 	padding: 20px 13px;
-	gap: 10px;
+	gap: 71px;
 	font-size: 14px;
+	cursor: pointer;
+	margin-top: 30px;
 }
 
 
