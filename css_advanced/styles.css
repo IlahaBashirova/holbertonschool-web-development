@@ -373,7 +373,7 @@ header .container a {
 /*Faq section*/
 .FAQ {
 	background-color: #FFFFFF;
-	;
+	padding: 20px 60px;
 	text-align: center;
 }
 .row{
@@ -382,6 +382,7 @@ header .container a {
 	justify-content: space-between;
 	align-items: flex-start;
 	gap: 74px;
+	margin-bottom: 220px;
 }
 .FAQ .item {
 	width: 350;
