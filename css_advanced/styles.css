@@ -370,7 +370,43 @@ header .container a {
 	cursor: pointer;
 	margin-top: 30px;
 }
-
+/*Faq section*/
+.FAQ {
+	background-color: #FFFFFF;
+	;
+	text-align: center;
+}
+.row{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	gap: 74px;
+}
+.FAQ .item {
+	width: 350;
+	height: 242;
+	gap: 30px;
+	text-align: left;
+}
+.item h2 {
+	font-family: "Source Sans Pro" , sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: auto;
+	width: 350px;
+	height: 20px;
+	color: #071629;
+}
+.item p {
+	font-family: "Source Sans Pro", sans-serif;
+	font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        width: 350px;
+        height: 192px;
+        color: #071629;
+}
 
 
 
