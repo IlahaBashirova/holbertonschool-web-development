@@ -385,9 +385,8 @@ header .container a {
 	margin-bottom: 220px;
 }
 .FAQ .item {
-	width: 350;
-	height: 242;
-	gap: 30px;
+	width: 350px;
+	height: 242px;
 	text-align: left;
 }
 .item h2 {
